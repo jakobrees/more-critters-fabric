@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:yellow_dye"
+  ],
+  "result": {
+    "id": "more_critters:critter_atlas",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "more_critters:stripped_ghostly_log"
+  },
+  "result": {
+    "id": "more_critters:stripped_ghostly_wood",
+    "count": 3
+  }
+}

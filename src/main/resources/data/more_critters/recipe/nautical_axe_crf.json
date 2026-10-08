@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nautical_axe",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "bcb",
+    " c "
+  ],
+  "key": {
+    "a": "more_critters:shell_pieces",
+    "b": "minecraft:copper_ingot",
+    "c": "minecraft:stick"
+  },
+  "result": {
+    "id": "more_critters:nautical_axe",
+    "count": 1
+  }
+}

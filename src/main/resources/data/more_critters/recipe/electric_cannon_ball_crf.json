@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:cannon_ball",
+    "b": "more_critters:bottleo_electricity"
+  },
+  "result": {
+    "id": "more_critters:infused_cannon_ball_electric",
+    "count": 8
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_critters:item/snowflake_spider_spawn_egg"
+  }
+}

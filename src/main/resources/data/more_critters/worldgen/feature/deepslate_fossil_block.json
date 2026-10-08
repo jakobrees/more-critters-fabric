@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:ore",
+  "size": 4,
+  "discard_chance_on_air_exposure": 0,
+  "targets": [
+    {
+      "target": {
+        "predicate_type": "blockstate_match",
+        "block_state": {
+          "id": "minecraft:deepslate",
+          "properties": {
+            "axis": "y"
+          }
+        }
+      },
+      "state": "more_critters:deepslate_fossil_block"
+    }
+  ]
+}

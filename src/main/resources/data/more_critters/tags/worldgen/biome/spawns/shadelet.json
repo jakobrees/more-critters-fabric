@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:dark_forest",
+    {
+      "id": "biomesoplenty:ominous_woods",
+      "required": false
+    }
+  ]
+}

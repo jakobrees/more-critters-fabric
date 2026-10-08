@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glow_berries",
+    "minecraft:sugar_cane",
+    "minecraft:sweet_berries",
+    "minecraft:sugar",
+    "minecraft:cookie",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "more_critters:tooth_melter",
+    "count": 1
+  }
+}

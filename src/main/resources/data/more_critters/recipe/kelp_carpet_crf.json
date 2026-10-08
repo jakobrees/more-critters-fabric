@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": "minecraft:dried_kelp"
+  },
+  "result": {
+    "id": "more_critters:dried_kelp_carpet",
+    "count": 3
+  }
+}

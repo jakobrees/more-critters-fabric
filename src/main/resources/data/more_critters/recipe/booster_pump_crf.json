@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "booster_pump",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:copper_ingot",
+    "b": "more_critters:avoider_tail"
+  },
+  "result": {
+    "id": "more_critters:booster_pump",
+    "count": 1
+  }
+}

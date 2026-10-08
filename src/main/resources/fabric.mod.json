@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "more_critters",
+	"version": "${version}",
+	"name": "More Critters",
+	"description": "Fantasy creatures in vanilla style. Unofficial Fabric port of More Critters by Portakal Cevheri, via Nergan's NeoForge port.",
+	"authors": [
+		"Portakal Cevheri",
+		"Nergan"
+	],
+	"contributors": [
+		"Natsirt",
+		"OrangeeApple",
+		"MistyJam",
+		"MSF",
+		"Skipster112"
+	],
+	"license": "MPL-2.0",
+	"icon": "assets/more_critters/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.morecritters.fabric.MoreCritters"
+		],
+		"client": [
+			"com.morecritters.fabric.client.MoreCrittersClient"
+		]
+	},
+	"accessWidener": "more_critters.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*",
+		"geckolib": ">=5.5"
+	}
+}

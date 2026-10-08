@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "more_critters:item/tattered_jolly_roger",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}

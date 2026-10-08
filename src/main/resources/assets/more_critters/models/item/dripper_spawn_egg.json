@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_critters:item/dripper_spawn_egg"
+  }
+}

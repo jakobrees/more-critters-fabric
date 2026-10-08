@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:eerie_bark",
+    "more_critters:black_resin_clump"
+  ],
+  "result": {
+    "id": "more_critters:eerie_dart",
+    "count": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "minecraft:potion",
+    "potion_contents": {
+      "potions": "minecraft:awkward"
+    }
+  },
+  "reagent": {
+    "item": "more_critters:mysterious_virus_bottle"
+  },
+  "output": {
+    "id": "more_critters:mysterious_virus_bottle"
+  }
+}

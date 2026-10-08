@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:ghostly_planks",
+    "b": "minecraft:water_bucket"
+  },
+  "result": {
+    "id": "more_critters:wet_ghostly_planks",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:ore",
+  "size": 4,
+  "discard_chance_on_air_exposure": 0,
+  "targets": [
+    {
+      "target": {
+        "predicate_type": "blockstate_match",
+        "block_state": "minecraft:stone"
+      },
+      "state": "more_critters:fossil_block"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": "more_critters:fish_bone"
+  },
+  "result": {
+    "id": "more_critters:fish_bone_pole",
+    "count": 3
+  }
+}

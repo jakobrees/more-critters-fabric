@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chrysalis",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:end_dust",
+    "minecraft:popped_chorus_fruit"
+  ],
+  "result": {
+    "id": "more_critters:shimmering_chrysalis",
+    "count": 1
+  }
+}

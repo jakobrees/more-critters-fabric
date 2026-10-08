@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "more_critters:item/custodian_spawn_egg"
+  }
+}

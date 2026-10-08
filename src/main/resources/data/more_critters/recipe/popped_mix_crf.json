@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:cooked_nerve",
+    "minecraft:popped_chorus_fruit",
+    "more_critters:cooked_nerve",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "more_critters:popped_nerval_mixture",
+    "count": 1
+  }
+}

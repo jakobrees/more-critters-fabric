@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:egg",
+    "minecraft:milk_bucket",
+    "minecraft:wheat"
+  ],
+  "result": {
+    "id": "more_critters:cupcake",
+    "count": 3
+  }
+}

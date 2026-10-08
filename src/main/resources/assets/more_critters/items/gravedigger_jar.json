@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "more_critters:item/gravedigger_jar",
+    "model": {
+      "type": "geckolib:geckolib"
+    }
+  }
+}

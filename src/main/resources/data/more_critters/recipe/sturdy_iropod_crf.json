@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "more_critters:shell_pieces",
+    "b": "more_critters:iroball_item"
+  },
+  "result": {
+    "id": "more_critters:spiked_iroball",
+    "count": 1
+  }
+}

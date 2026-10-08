@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:black_resin_bricks"
+  },
+  "result": {
+    "id": "more_critters:black_resin_brick_wall",
+    "count": 6
+  }
+}

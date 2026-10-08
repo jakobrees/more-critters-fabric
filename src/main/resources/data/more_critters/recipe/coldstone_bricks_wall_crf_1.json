@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "coldstone_bricks_wall",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:coldstone_bricks"
+  },
+  "result": {
+    "id": "more_critters:coldstone_brick_wall",
+    "count": 6
+  }
+}

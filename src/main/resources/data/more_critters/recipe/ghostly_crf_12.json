@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:ghostly_planks"
+  },
+  "result": {
+    "id": "more_critters:ghostly_slab",
+    "count": 6
+  }
+}

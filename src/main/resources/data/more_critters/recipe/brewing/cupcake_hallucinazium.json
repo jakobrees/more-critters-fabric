@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:brewing",
+  "input": {
+    "item": "more_critters:cupcake"
+  },
+  "reagent": {
+    "item": "more_critters:toxin_bladder_hallucinazium"
+  },
+  "output": {
+    "id": "more_critters:cupcake_hallucinazium"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": "minecraft:moss_block",
+    "b": "minecraft:feather",
+    "c": "more_critters:captains_heart",
+    "d": "more_critters:fish_bone"
+  },
+  "result": {
+    "id": "more_critters:corpse_parrot_item",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:ghostly_planks",
+    "minecraft:kelp"
+  ],
+  "result": {
+    "id": "more_critters:kelpy_ghostly_planks",
+    "count": 1
+  }
+}

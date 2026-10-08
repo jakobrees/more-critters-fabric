@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:ectometal_block"
+  ],
+  "result": {
+    "id": "more_critters:ectometal",
+    "count": 9
+  }
+}

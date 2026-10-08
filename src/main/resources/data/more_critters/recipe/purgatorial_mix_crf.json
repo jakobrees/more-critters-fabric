@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "purgatorial_mix",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:mori_shroom",
+    "more_critters:vita_shroom",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "more_critters:purgatorial_mixture",
+    "count": 1
+  }
+}

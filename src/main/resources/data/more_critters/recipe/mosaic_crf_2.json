@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "more_critters:petrified_ghostly_planks"
+  },
+  "result": {
+    "id": "more_critters:petrified_ghostly_mosaic_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": "#minecraft:planks",
+    "b": "minecraft:gold_ingot",
+    "c": "more_critters:evolite"
+  },
+  "result": {
+    "id": "more_critters:evolution_table",
+    "count": 1
+  }
+}

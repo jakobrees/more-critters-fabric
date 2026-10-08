@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bunbug_burger",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bread",
+    "more_critters:cooked_bunbug_meat",
+    "minecraft:bread"
+  ],
+  "result": {
+    "id": "more_critters:bunbug_burger",
+    "count": 1
+  }
+}

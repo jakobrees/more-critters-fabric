@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:meadow",
+    {
+      "id": "terralith:blooming_plateau",
+      "required": false
+    },
+    {
+      "id": "terralith:temperate_highlands",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:highland",
+      "required": false
+    }
+  ]
+}

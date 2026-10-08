@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:dripper_remains",
+    "b": "#minecraft:planks"
+  },
+  "result": {
+    "id": "more_critters:dripstone_wall_mask",
+    "count": 2
+  }
+}

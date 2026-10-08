@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:cupcake",
+    "#minecraft:music_discs"
+  ],
+  "result": {
+    "id": "more_critters:music_disc_party",
+    "count": 1
+  }
+}

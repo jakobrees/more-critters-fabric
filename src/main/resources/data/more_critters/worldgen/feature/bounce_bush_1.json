@@ -1,0 +1,9 @@
+{
+  "type": "more_critters:structure_feature",
+  "structure": "more_critters:bounceberry_bush1",
+  "random_rotation": true,
+  "ignored_blocks": [
+    "minecraft:air",
+    "minecraft:structure_block"
+  ]
+}

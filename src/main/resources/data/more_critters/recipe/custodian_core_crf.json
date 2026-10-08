@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:bone_block",
+    "b": "minecraft:deepslate_bricks",
+    "c": "more_critters:sculk_essence"
+  },
+  "result": {
+    "id": "more_critters:custodian_core",
+    "count": 1
+  }
+}

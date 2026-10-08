@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "more_critters:sturdy"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "more_critters:sturdy"
+      }
+    ]
+  }
+}

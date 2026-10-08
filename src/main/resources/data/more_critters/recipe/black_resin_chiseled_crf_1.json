@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": "more_critters:black_resin_brick_slab"
+  },
+  "result": {
+    "id": "more_critters:chiseled_black_resin_bricks",
+    "count": 1
+  }
+}

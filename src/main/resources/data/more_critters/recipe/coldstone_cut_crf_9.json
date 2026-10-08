@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "more_critters:coldstone",
+  "result": {
+    "id": "more_critters:polished_coldstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:tattered_cloth"
+  },
+  "result": {
+    "id": "more_critters:pirate_chestplate",
+    "count": 1
+  }
+}

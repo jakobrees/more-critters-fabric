@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": "minecraft:string",
+    "b": "minecraft:leather",
+    "c": "more_critters:evolite"
+  },
+  "result": {
+    "id": "more_critters:critterling_sack",
+    "count": 1
+  }
+}

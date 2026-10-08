@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cac",
+    "ccc"
+  ],
+  "key": {
+    "a": "more_critters:nauticrawl_tentacle",
+    "b": "minecraft:egg",
+    "c": "more_critters:shell_pieces"
+  },
+  "result": {
+    "id": "more_critters:nauticrawl_ramen",
+    "count": 1
+  }
+}

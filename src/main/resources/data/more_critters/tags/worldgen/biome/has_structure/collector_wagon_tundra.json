@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:snowy_plains",
+    {
+      "id": "terralith:snowy_shield",
+      "required": false
+    },
+    {
+      "id": "terralith:wintry_lowlands",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:tundra",
+      "required": false
+    }
+  ]
+}

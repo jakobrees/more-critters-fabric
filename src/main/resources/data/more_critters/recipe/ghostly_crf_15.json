@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "more_critters:ghostly_planks"
+  },
+  "result": {
+    "id": "more_critters:ghostly_door",
+    "count": 3
+  }
+}

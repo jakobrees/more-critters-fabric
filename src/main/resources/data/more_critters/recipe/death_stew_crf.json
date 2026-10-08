@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "death_stew",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:red_mushroom",
+    "minecraft:mycelium",
+    "more_critters:mori_shroom",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "more_critters:death_stew",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "more_critters:buried_nauticrawl",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "more_critters:burried_nauticrawl",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                "minecraft:structure_block",
+                "minecraft:air"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "aba",
+    "ba "
+  ],
+  "key": {
+    "a": "minecraft:obsidian",
+    "b": "more_critters:dripper_remains"
+  },
+  "result": {
+    "id": "more_critters:slashklub",
+    "count": 1
+  }
+}

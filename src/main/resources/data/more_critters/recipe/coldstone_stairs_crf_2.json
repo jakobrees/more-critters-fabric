@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " aa",
+    "aaa"
+  ],
+  "key": {
+    "a": "more_critters:coldstone"
+  },
+  "result": {
+    "id": "more_critters:coldstone_stairs",
+    "count": 4
+  }
+}

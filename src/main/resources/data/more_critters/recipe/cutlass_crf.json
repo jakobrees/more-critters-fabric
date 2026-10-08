@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "more_critters:ectometal"
+  },
+  "result": {
+    "id": "more_critters:cutlass",
+    "count": 1
+  }
+}

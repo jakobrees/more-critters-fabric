@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bounceberry_jam",
+  "category": "misc",
+  "ingredients": [
+    "more_critters:bounceberry",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "more_critters:bounceberry_jam",
+    "count": 1
+  }
+}

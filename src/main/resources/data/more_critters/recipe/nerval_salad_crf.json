@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:carrot",
+    "more_critters:cooked_nerve",
+    "minecraft:beetroot",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "more_critters:nerval_salad",
+    "count": 1
+  }
+}
