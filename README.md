@@ -20,8 +20,15 @@ Install it on both the server and every client.
 
 - MCreator's bucket fluids are replaced by vanilla-style mob buckets.
 - The Critter Atlas is a single client-side book screen.
-- Spawns, structures and features also generate in matching biomes from Terralith and Biomes O' Plenty
-  when those mods are installed (`data/more_critters/tags/worldgen/biome/`, written by `tools/biome_tags.py`).
+
+## Compatibility
+
+- **Terralith** and **Biomes O' Plenty**: critters, structures and features also appear in their matching
+  biomes (bunbugs in Terralith's deserts, collector wagons in BoP's prairies, and so on). Neither mod is
+  required; the extra biomes are simply skipped when they are not installed.
+- **Geophilic** and other mods that reshape vanilla biomes without renaming them work as they are.
+- The biome choices are tags in `data/more_critters/tags/worldgen/biome/` (written by `tools/biome_tags.py`),
+  so datapacks can add or remove biomes.
 
 ## Building
 
