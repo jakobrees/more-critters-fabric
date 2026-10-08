@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Writes the biome tags that decide where critters spawn and where structures and features generate.
 
-The original names vanilla biomes only. Terralith and Biomes O' Plenty replace much of the overworld
-with biomes of their own, so each tag also lists the ones that resemble the original's choice, as
+The original names vanilla biomes only. Terralith and Biomes O' Plenty replace much of the overworld,
+and Incendium much of the Nether, with biomes of their own, so each tag also lists the ones that resemble the original's choice, as
 optional entries: they count when that mod is installed and are skipped when it is not.
 
     python3 tools/biome_tags.py      (rewrites data/more_critters/tags/worldgen/biome/)
@@ -51,6 +51,7 @@ CAVES = (['dripstone_caves', 'lush_caves'], ['terralith:cave/underground_jungle'
 WARM_OCEANS = (['warm_ocean'], ['terralith:deep_warm_ocean'])
 OCEANS = (['cold_ocean', 'deep_cold_ocean', 'deep_lukewarm_ocean', 'deep_ocean', 'lukewarm_ocean', 'ocean', 'warm_ocean'],
           ['terralith:deep_warm_ocean'])
+WARPED_FORESTS = (['warped_forest'], ['incendium:inverted_forest'])
 END = (['end_barrens', 'end_highlands', 'end_midlands', 'small_end_islands'],
        ['biomesoplenty:end_corruption', 'biomesoplenty:end_flats', 'biomesoplenty:end_reef', 'biomesoplenty:end_wilds'])
 
@@ -66,6 +67,7 @@ TAGS = {
     'spawns/armossillo': LUSH_CAVES,
     'spawns/nauticrawl': WARM_OCEANS,
     'spawns/shimmerwing': END,
+    'spawns/warptrap': WARPED_FORESTS,
     # Where each structure may generate (its worldgen/structure file).
     'has_structure/abandoned_bunbug_farm': DESERTS,
     'has_structure/abandoned_mine': CAVES,

@@ -40,6 +40,6 @@ public final class WarptrapModule implements Module {
 
 		// On the ground, in the dark, never on peaceful.
 		SpawnPlacements.register(WARPTRAP, SpawnPlacementTypes.ON_GROUND, Heightmap.Types.MOTION_BLOCKING_NO_LEAVES, Monster::checkMonsterSpawnRules);
-		Spawns.inBiomes(WARPTRAP, MobCategory.MONSTER, 10, 2, 3, "minecraft:warped_forest");
+		Spawns.inBiomeTag(WARPTRAP, MobCategory.MONSTER, 10, 2, 3, "more_critters:spawns/warptrap");
 	}
 }

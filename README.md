@@ -25,7 +25,8 @@ Install it on both the server and every client.
 
 - **Terralith** and **Biomes O' Plenty**: critters, structures and features also appear in their matching
   biomes (bunbugs in Terralith's deserts, collector wagons in BoP's prairies, and so on). Neither mod is
-  required; the extra biomes are simply skipped when they are not installed.
+  required (nor is Incendium, below); the extra biomes are simply skipped when they are not installed.
+- **Incendium**: warptraps also spawn in its Inverted Forest, the warped forest of Incendium's Nether.
 - **Geophilic** and other mods that reshape vanilla biomes without renaming them work as they are.
 - The biome choices are tags in `data/more_critters/tags/worldgen/biome/` (written by `tools/biome_tags.py`),
   so datapacks can add or remove biomes.
