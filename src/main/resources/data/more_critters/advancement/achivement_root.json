@@ -1,6 +1,6 @@
 {
   "display": {
-    "background": "more_critters:textures/screens/achivement_background.png",
+    "background": "more_critters:screens/achivement_background",
     "icon": {
       "id": "more_critters:tab_icon"
     },
