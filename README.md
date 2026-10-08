@@ -36,6 +36,17 @@ Install it on both the server and every client.
 - Natsirt, OrangeeApple, MistyJam, MSF and Skipster112: contributors to the original
 - **Nergan**: the NeoForge port this port was written from
 
+## How this port was made
+
+More Critters is released for Forge 1.20.1 only, and its source code is not published. Nergan decompiled it
+and turned it into a NeoForge 1.21.1 port. That decompiled code was the starting point here, as a reference
+for how everything behaves.
+
+The Fabric version is a full rewrite, not a conversion: every critter, block, item, structure and
+screen was written again from scratch against Fabric and Minecraft 26.3. Where the decompiled code was
+unclear, the original Forge jar was the final word. The textures, models, animations, sounds and data
+files are the original mod's own.
+
 ## License
 
 The code of this port is licensed under the MPL-2.0 (`LICENSE`). The original More Critters, including
